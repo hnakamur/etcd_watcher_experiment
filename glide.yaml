@@ -1,0 +1,4 @@
+package: github.com/hnakamur/etcd_watcher_example
+import:
+- package: github.com/coreos/etcd
+  version: ^v2.3.4

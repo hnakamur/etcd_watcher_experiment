@@ -1,0 +1,8 @@
+/Procfile
+/bin/
+/etcd_watcher_experiment
+/infra-proxy1.etcd/
+/infra1.etcd/
+/infra2.etcd/
+/infra3.etcd/
+/vendor/

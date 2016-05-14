@@ -1,0 +1,19 @@
+hash: e8610043f487a48de7e6b32ca94313c1b6ba7d942c0aa46e2953a09dc8856d46
+updated: 2016-05-14T15:36:06.224179406Z
+imports:
+- name: github.com/coreos/etcd
+  version: df60227765fc3b1d4bbc6a5f44ab468d26d25aa7
+  subpackages:
+  - client
+  - Godeps/_workspace/src/github.com/ugorji/go/codec
+  - Godeps/_workspace/src/golang.org/x/net/context
+  - pkg/pathutil
+  - pkg/types
+- name: golang.org/x/net
+  version: 6acef71eb69611914f7a30939ea9f6e194c78172
+  subpackages:
+  - context
+  - http2
+  - internal/timeseries
+  - trace
+devImports: []
